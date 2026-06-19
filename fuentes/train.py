@@ -140,7 +140,7 @@ def entrenar_modelo(nombre, estimator, param_grid, X_train, X_test, y_train, y_t
 MODELOS = [
     (
         "Regresion Logistica",
-        LogisticRegression(max_iter=1000, random_state=SEED, multi_class="multinomial"),
+        LogisticRegression(max_iter=1000, random_state=SEED),
         {
             "C":       [0.01, 0.1, 1, 10],
             "solver":  ["lbfgs", "saga"],
