@@ -1,0 +1,401 @@
+id,comentario,sentimiento,fecha,fuente
+1,"No había agua en los baños, muy mala higiene. No regresaré.",NEG,2024-09-04,Facebook
+2,"La carne asada estaba en su punto, muy jugosa.",POS,2024-01-13,Encuesta Interna
+3,"El personal no conoce el menú, tuvo que ir a preguntar varias veces. No regresaré.",NEG,2024-11-27,Google Reviews
+4,"Excelente experiencia. El birote salado estaba recién horneado, increíble.",POS,2024-07-29,Encuesta Interna
+5,"Tienen menú del día con opciones de sopa, guisado y postre. Es un dato a considerar.",NEU,2024-06-17,Google Reviews
+6,Las quesadillas de flor de calabaza son una delicia. Definitivamente lo recomiendo.,POS,2024-07-30,Google Reviews
+7,Nos cobraron platillos que no consumimos.,NEG,2024-04-16,Encuesta Interna
+8,Excelente experiencia. Las enchiladas verdes son las mejores que he probado en Zapopan.,POS,2024-01-11,Encuesta Interna
+9,Tienen mesas en el interior y en terraza exterior.,NEU,2024-04-30,Encuesta Interna
+10,"El pozole rojo estuvo espectacular, lo recomiendo. El lugar merece 5 estrellas.",POS,2024-07-29,Facebook
+11,"El lugar tiene un encanto especial, muy acogedor. El lugar merece 5 estrellas.",POS,2024-02-05,Encuesta Interna
+12,Ofrecen servicio a domicilio a través de aplicaciones. Sin más comentarios.,NEU,2024-05-10,Encuesta Interna
+13,Hay que mencionar que tienen estacionamiento compartido con el centro comercial.,NEU,2024-06-19,Encuesta Interna
+14,"La sopa llegó completamente fría, tuvieron que recalentarla. No regresaré.",NEG,2024-03-17,Encuesta Interna
+15,"Hay que mencionar que el estacionamiento es limitado, mejor llegar en transporte.",NEU,2024-11-15,Encuesta Interna
+16,"Visita obligada. Muy buen servicio, nos atendieron con mucha amabilidad.",POS,2024-09-01,Encuesta Interna
+17,Muy decepcionante. Pedimos tres veces el mismo plato y nunca llegó.,NEG,2024-08-13,Google Reviews
+18,Mal servicio. La salsa picante estaba aguada y sin sabor.,NEG,2024-01-31,Encuesta Interna
+19,Tienen mesas en el interior y en terraza exterior. Sin más comentarios.,NEU,2024-11-16,Facebook
+20,La recepcionista confirma reservaciones por WhatsApp. Sin más comentarios.,NEU,2024-10-12,Facebook
+21,"Regresaré pronto, todo estuvo delicioso y a buen precio.",POS,2024-01-24,Google Reviews
+22,El lugar está muy limpio y bien decorado.,POS,2024-03-09,Facebook
+23,El servicio es lento y desorganizado.,NEG,2024-10-16,Google Reviews
+24,"Mal servicio. El lugar estaba sucio, las mesas no estaban bien limpias.",NEG,2024-04-21,Facebook
+25,"El ambiente era muy ruidoso, no podíamos conversar. Esperaba mucho más.",NEG,2024-02-06,Encuesta Interna
+26,"Excelente experiencia. Todo estuvo perfecto, volveremos pronto.",POS,2024-11-24,Facebook
+27,"Muy decepcionante. No había agua en los baños, muy mala higiene.",NEG,2024-12-04,Google Reviews
+28,El restaurante tiene convenio con empresas de la zona. Sin más comentarios.,NEU,2024-05-27,Encuesta Interna
+29,"Visita obligada. La carne asada estaba en su punto, muy jugosa.",POS,2024-08-02,Google Reviews
+30,"Solo menciono que tienen menú del día con opciones de sopa, guisado y postre.",NEU,2024-09-17,Encuesta Interna
+31,Excelente experiencia. Sin duda el mejor restaurante mexicano de la zona.,POS,2024-03-08,Facebook
+32,"La sopa llegó completamente fría, tuvieron que recalentarla.",NEG,2024-10-10,Facebook
+33,"El personal no conoce el menú, tuvo que ir a preguntar varias veces.",NEG,2024-09-21,Google Reviews
+34,Muy decepcionante. Los tacos llegaron fríos y el tortilla estaba reseca.,NEG,2024-10-03,Google Reviews
+35,"Muy decepcionante. Salimos con malestar estomacal, probablemente por la comida.",NEG,2024-03-13,Google Reviews
+36,El menú no ha cambiado mucho en los últimos años. Es un dato a considerar.,NEU,2024-02-07,Facebook
+37,"Nunca más regreso, la experiencia fue terrible. No regresaré.",NEG,2024-05-19,Facebook
+38,"Buenísimo el agua de jamaica, muy fresca y natural. Definitivamente lo recomiendo.",POS,2024-12-09,Encuesta Interna
+39,"Salimos con malestar estomacal, probablemente por la comida. Esperaba mucho más.",NEG,2024-07-22,Encuesta Interna
+40,La atención fue excepcional desde que llegamos. El lugar merece 5 estrellas.,POS,2024-05-18,Encuesta Interna
+41,Visita obligada. Hermoso lugar con una vista preciosa al jardín.,POS,2024-04-07,Facebook
+42,Hay que mencionar que la cocina está abierta y se puede ver la preparación.,NEU,2024-12-24,Facebook
+43,"El lugar tiene un encanto especial, muy acogedor. Definitivamente lo recomiendo.",POS,2024-07-05,Facebook
+44,"El lugar estaba sucio, las mesas no estaban bien limpias.",NEG,2024-07-24,Facebook
+45,Las quesadillas de flor de calabaza son una delicia. Definitivamente lo recomiendo.,POS,2024-12-03,Google Reviews
+46,Excelente experiencia. El mole negro tiene un sabor auténtico y profundo.,POS,2024-02-06,Encuesta Interna
+47,Tienen mesas en el interior y en terraza exterior.,NEU,2024-08-09,Encuesta Interna
+48,Los precios están en el promedio de la zona. Es un dato a considerar.,NEU,2024-01-24,Google Reviews
+49,"Salimos con malestar estomacal, probablemente por la comida. No regresaré.",NEG,2024-11-14,Encuesta Interna
+50,Solo menciono que aceptan pagos con tarjeta y en efectivo.,NEU,2024-01-19,Facebook
+51,"El personal no conoce el menú, tuvo que ir a preguntar varias veces. No regresaré.",NEG,2024-12-19,Facebook
+52,Solo menciono que la decoración es temática con artesanías de jalisco.,NEU,2024-03-15,Facebook
+53,"Nunca más regreso, la experiencia fue terrible. Esperaba mucho más.",NEG,2024-08-13,Facebook
+54,Las enchiladas verdes son las mejores que he probado en Zapopan. El lugar merece 5 estrellas.,POS,2024-12-02,Encuesta Interna
+55,Los meseros usan uniforme con los colores del restaurante. Sin más comentarios.,NEU,2024-10-16,Encuesta Interna
+56,Excelente experiencia. Los tacos de barbacoa son de los mejores de la ciudad.,POS,2024-04-25,Google Reviews
+57,El menú no ha cambiado mucho en los últimos años. Sin más comentarios.,NEU,2024-02-17,Google Reviews
+58,"Visita obligada. Superó nuestras expectativas, muy recomendable.",POS,2024-03-21,Google Reviews
+59,"El pozole rojo estuvo espectacular, lo recomiendo. Definitivamente lo recomiendo.",POS,2024-12-09,Facebook
+60,Las quesadillas de flor de calabaza son una delicia.,POS,2024-07-14,Google Reviews
+61,"El ambiente es muy agradable, ideal para una cena familiar.",POS,2024-12-03,Facebook
+62,Los postres se elaboran en el mismo restaurante. Es un dato a considerar.,NEU,2024-11-17,Google Reviews
+63,"Muy buen servicio, nos atendieron con mucha amabilidad. El lugar merece 5 estrellas.",POS,2024-01-01,Encuesta Interna
+64,"El lugar tiene un encanto especial, muy acogedor.",POS,2024-12-12,Encuesta Interna
+65,El local tiene capacidad para unas 50 personas aproximadamente. Sin más comentarios.,NEU,2024-01-13,Encuesta Interna
+66,"La música de fondo era folclórica, acorde con la temática. Sin más comentarios.",NEU,2024-02-20,Encuesta Interna
+67,Visita obligada. Sin duda el mejor restaurante mexicano de la zona.,POS,2024-08-04,Google Reviews
+68,"Excelente experiencia. Todo estuvo perfecto, volveremos pronto.",POS,2024-02-22,Google Reviews
+69,"La bebida sabía rara, como si estuviera caducada. Esperaba mucho más.",NEG,2024-08-14,Facebook
+70,La atención fue excepcional desde que llegamos. Definitivamente lo recomiendo.,POS,2024-02-08,Facebook
+71,"Excelente experiencia. La torta ahogada es auténtica, como las de antes.",POS,2024-05-02,Facebook
+72,"Visita obligada. Servicio rápido y amable, sin esperas innecesarias.",POS,2024-06-18,Google Reviews
+73,Solo menciono que tienen sección de bar con bebidas típicas mexicanas.,NEU,2024-04-16,Encuesta Interna
+74,Solo menciono que la cocina está abierta y se puede ver la preparación.,NEU,2024-12-30,Facebook
+75,"La comida estuvo excelente, el caldo tlalpeño estaba perfecto. El lugar merece 5 estrellas.",POS,2024-05-15,Facebook
+76,Excelente experiencia. Lugar perfecto para reuniones de trabajo o cenas románticas.,POS,2024-10-22,Google Reviews
+77,"La carne sabía a recalentado, no estaba fresca.",NEG,2024-10-21,Facebook
+78,El mesero fue muy grosero con nosotros desde el inicio. Esperaba mucho más.,NEG,2024-07-27,Facebook
+79,"No había agua en los baños, muy mala higiene. Esperaba mucho más.",NEG,2024-07-18,Encuesta Interna
+80,Muy decepcionante. El mesero fue muy grosero con nosotros desde el inicio.,NEG,2024-04-23,Facebook
+81,Muy decepcionante. La salsa picante estaba aguada y sin sabor.,NEG,2024-08-30,Encuesta Interna
+82,"La torta ahogada es auténtica, como las de antes. Definitivamente lo recomiendo.",POS,2024-12-07,Google Reviews
+83,"El estacionamiento es limitado, mejor llegar en transporte.",NEU,2024-05-31,Facebook
+84,Hay que mencionar que la carta incluye opciones vegetarianas aunque son pocas.,NEU,2024-12-09,Google Reviews
+85,Visita obligada. El lugar está muy limpio y bien decorado.,POS,2024-12-05,Encuesta Interna
+86,"El chile en nogada estaba increíble, muy bien preparado. Definitivamente lo recomiendo.",POS,2024-04-07,Facebook
+87,Visita obligada. Los precios son accesibles y las porciones son generosas.,POS,2024-08-07,Encuesta Interna
+88,La cocina está abierta y se puede ver la preparación. Sin más comentarios.,NEU,2024-11-21,Facebook
+89,El mole negro tiene un sabor auténtico y profundo. Definitivamente lo recomiendo.,POS,2024-05-16,Google Reviews
+90,"Mal servicio. Muy mala experiencia, no lo recomiendo para nada.",NEG,2024-02-28,Google Reviews
+91,"La carne asada estaba en su punto, muy jugosa.",POS,2024-02-01,Facebook
+92,"Buenísimo el agua de jamaica, muy fresca y natural.",POS,2024-07-02,Facebook
+93,Excelente experiencia. Las enchiladas verdes son las mejores que he probado en Zapopan.,POS,2024-11-15,Facebook
+94,Visita obligada. La atención fue excepcional desde que llegamos.,POS,2024-05-22,Google Reviews
+95,La atención fue excepcional desde que llegamos.,POS,2024-05-14,Encuesta Interna
+96,El restaurante participa en el programa de Jalisco Gastronómico. Es un dato a considerar.,NEU,2024-06-17,Facebook
+97,Mal servicio. Las porciones son muy pequeñas para el precio que cobran.,NEG,2024-12-25,Facebook
+98,"Visita obligada. La comida estuvo excelente, el caldo tlalpeño estaba perfecto.",POS,2024-04-11,Encuesta Interna
+99,Visita obligada. Las quesadillas de flor de calabaza son una delicia.,POS,2024-02-20,Google Reviews
+100,Pedimos tres veces el mismo plato y nunca llegó. No regresaré.,NEG,2024-08-30,Encuesta Interna
+101,"Solo menciono que la música de fondo era folclórica, acorde con la temática.",NEU,2024-07-14,Encuesta Interna
+102,"El ambiente es muy agradable, ideal para una cena familiar.",POS,2024-10-02,Google Reviews
+103,"Todo estuvo perfecto, volveremos pronto. Definitivamente lo recomiendo.",POS,2024-03-06,Encuesta Interna
+104,El tiempo de espera es exagerado para un lugar casi vacío.,NEG,2024-02-12,Encuesta Interna
+105,"El birote salado estaba recién horneado, increíble. El lugar merece 5 estrellas.",POS,2024-11-01,Google Reviews
+106,Solo menciono que la política es de no permitir alimentos externos.,NEU,2024-06-16,Encuesta Interna
+107,Solo menciono que el chef lleva 10 años preparando cocina tradicional jalisciense.,NEU,2024-10-23,Encuesta Interna
+108,"El ambiente era muy ruidoso, no podíamos conversar.",NEG,2024-10-23,Google Reviews
+109,Hay que mencionar que la decoración es temática con artesanías de jalisco.,NEU,2024-12-09,Encuesta Interna
+110,El menú no ha cambiado mucho en los últimos años.,NEU,2024-08-20,Facebook
+111,"Excelente atención del mesero, muy rápido y amable. El lugar merece 5 estrellas.",POS,2024-07-27,Google Reviews
+112,El restaurante tiene convenio con empresas de la zona. Sin más comentarios.,NEU,2024-05-19,Encuesta Interna
+113,No respetaron la reservación que hicimos con anticipación.,NEG,2024-11-14,Google Reviews
+114,Visita obligada. Las quesadillas de flor de calabaza son una delicia.,POS,2024-11-06,Encuesta Interna
+115,"Regresaré pronto, todo estuvo delicioso y a buen precio. Definitivamente lo recomiendo.",POS,2024-10-14,Encuesta Interna
+116,El tiempo de espera es de 20 a 30 minutos en horas pico. Es un dato a considerar.,NEU,2024-10-28,Facebook
+117,Nos ignoraron por varios minutos antes de tomarnos la orden.,NEG,2024-09-16,Encuesta Interna
+118,"Visita obligada. La carne asada estaba en su punto, muy jugosa.",POS,2024-07-23,Encuesta Interna
+119,"Excelente experiencia. Excelente atención del mesero, muy rápido y amable.",POS,2024-12-08,Facebook
+120,"La sopa llegó completamente fría, tuvieron que recalentarla. No regresaré.",NEG,2024-06-06,Encuesta Interna
+121,"Buenísimo el agua de jamaica, muy fresca y natural.",POS,2024-10-18,Google Reviews
+122,Pedimos tres veces el mismo plato y nunca llegó.,NEG,2024-11-29,Google Reviews
+123,Excelente experiencia. Los precios son accesibles y las porciones son generosas.,POS,2024-11-05,Google Reviews
+124,"Excelente experiencia. El ambiente es muy agradable, ideal para una cena familiar.",POS,2024-04-01,Encuesta Interna
+125,"Tienen menú del día con opciones de sopa, guisado y postre. Sin más comentarios.",NEU,2024-08-15,Google Reviews
+126,La política es de no permitir alimentos externos. Sin más comentarios.,NEU,2024-10-04,Google Reviews
+127,"Excelente experiencia. La carne asada estaba en su punto, muy jugosa.",POS,2024-08-12,Encuesta Interna
+128,Tienen estacionamiento compartido con el centro comercial. Es un dato a considerar.,NEU,2024-08-16,Encuesta Interna
+129,El chef lleva 10 años preparando cocina tradicional jalisciense. Sin más comentarios.,NEU,2024-02-29,Google Reviews
+130,"La carne estaba dura y sin sabor, muy decepcionante.",NEG,2024-05-09,Facebook
+131,"El lugar tiene un encanto especial, muy acogedor. Definitivamente lo recomiendo.",POS,2024-05-01,Google Reviews
+132,"Tardaron más de 45 minutos en traer la comida, inaceptable.",NEG,2024-08-05,Google Reviews
+133,Solo menciono que el tiempo de espera es de 20 a 30 minutos en horas pico.,NEU,2024-11-26,Facebook
+134,El tiempo de espera es exagerado para un lugar casi vacío. Esperaba mucho más.,NEG,2024-03-25,Facebook
+135,"Mal servicio. El lugar estaba sucio, las mesas no estaban bien limpias.",NEG,2024-12-19,Google Reviews
+136,Ofrecen servicio a domicilio a través de aplicaciones.,NEU,2024-05-24,Encuesta Interna
+137,"La comida estuvo excelente, el caldo tlalpeño estaba perfecto. El lugar merece 5 estrellas.",POS,2024-11-14,Encuesta Interna
+138,El restaurante tiene buena iluminación y ventilación. Sin más comentarios.,NEU,2024-08-29,Google Reviews
+139,"El lugar estaba sucio, las mesas no estaban bien limpias. Esperaba mucho más.",NEG,2024-12-18,Facebook
+140,El restaurante participa en el programa de Jalisco Gastronómico.,NEU,2024-08-13,Google Reviews
+141,El restaurante participa en el programa de Jalisco Gastronómico. Sin más comentarios.,NEU,2024-01-23,Facebook
+142,Visita obligada. Las flautas de pollo crujientes y muy sabrosas.,POS,2024-06-10,Facebook
+143,"Solo menciono que tienen menú del día con opciones de sopa, guisado y postre.",NEU,2024-01-11,Google Reviews
+144,"Todo estuvo perfecto, volveremos pronto. Definitivamente lo recomiendo.",POS,2024-12-23,Facebook
+145,La carta incluye opciones vegetarianas aunque son pocas.,NEU,2024-05-30,Facebook
+146,Mal servicio. El aire acondicionado no funcionaba y hacía mucho calor.,NEG,2024-09-05,Encuesta Interna
+147,"Muy decepcionante. La carne sabía a recalentado, no estaba fresca.",NEG,2024-07-07,Google Reviews
+148,Muy decepcionante. Pedimos tres veces el mismo plato y nunca llegó.,NEG,2024-04-01,Facebook
+149,Los tacos de barbacoa son de los mejores de la ciudad. Definitivamente lo recomiendo.,POS,2024-07-23,Facebook
+150,"Mal servicio. Tardaron más de 45 minutos en traer la comida, inaceptable.",NEG,2024-03-05,Facebook
+151,Tienen mesas en el interior y en terraza exterior. Sin más comentarios.,NEU,2024-11-28,Google Reviews
+152,Los tacos de barbacoa son de los mejores de la ciudad. Definitivamente lo recomiendo.,POS,2024-09-18,Facebook
+153,"Tienen menú del día con opciones de sopa, guisado y postre. Sin más comentarios.",NEU,2024-09-04,Google Reviews
+154,"Visita obligada. La carne asada estaba en su punto, muy jugosa.",POS,2024-01-08,Google Reviews
+155,"El birote salado estaba recién horneado, increíble. El lugar merece 5 estrellas.",POS,2024-10-09,Encuesta Interna
+156,"Visita obligada. El pozole rojo estuvo espectacular, lo recomiendo.",POS,2024-07-27,Encuesta Interna
+157,Me sorprendió gratamente la calidad de la comida.,POS,2024-01-24,Encuesta Interna
+158,Mal servicio. Nos cobraron platillos que no consumimos.,NEG,2024-05-27,Facebook
+159,Excelente experiencia. Sin duda el mejor restaurante mexicano de la zona.,POS,2024-10-10,Google Reviews
+160,"La carne sabía a recalentado, no estaba fresca. No regresaré.",NEG,2024-06-05,Encuesta Interna
+161,"La carne sabía a recalentado, no estaba fresca. No regresaré.",NEG,2024-11-22,Facebook
+162,El lugar está muy limpio y bien decorado. El lugar merece 5 estrellas.,POS,2024-12-22,Encuesta Interna
+163,El tiempo de espera es de 20 a 30 minutos en horas pico. Sin más comentarios.,NEU,2024-03-15,Google Reviews
+164,"Mal servicio. La comida tenía exceso de sal, quedó intragable.",NEG,2024-08-07,Facebook
+165,"La cuenta no correspondía con lo que pedimos, nos cobraron de más. Esperaba mucho más.",NEG,2024-12-07,Encuesta Interna
+166,Solo menciono que el local tiene capacidad para unas 50 personas aproximadamente.,NEU,2024-03-10,Facebook
+167,El lugar está ubicado en una zona accesible del centro de Zapopan. Es un dato a considerar.,NEU,2024-05-15,Google Reviews
+168,El mesero fue muy grosero con nosotros desde el inicio. No regresaré.,NEG,2024-01-02,Facebook
+169,Excelente experiencia. Me sorprendió gratamente la calidad de la comida.,POS,2024-10-10,Google Reviews
+170,Excelente experiencia. El lugar está muy limpio y bien decorado.,POS,2024-01-21,Facebook
+171,El mole negro tiene un sabor auténtico y profundo. El lugar merece 5 estrellas.,POS,2024-04-23,Google Reviews
+172,Ofrecen servicio a domicilio a través de aplicaciones.,NEU,2024-12-19,Facebook
+173,Lugar perfecto para reuniones de trabajo o cenas románticas. Definitivamente lo recomiendo.,POS,2024-03-19,Facebook
+174,Mal servicio. Nos cobraron platillos que no consumimos.,NEG,2024-01-27,Facebook
+175,"La carne estaba dura y sin sabor, muy decepcionante. No regresaré.",NEG,2024-03-29,Encuesta Interna
+176,Los tacos de barbacoa son de los mejores de la ciudad.,POS,2024-12-15,Encuesta Interna
+177,Muy decepcionante. Pedimos tres veces el mismo plato y nunca llegó.,NEG,2024-11-16,Encuesta Interna
+178,Mal servicio. El servicio es lento y desorganizado.,NEG,2024-04-25,Encuesta Interna
+179,Los precios están en el promedio de la zona. Sin más comentarios.,NEU,2024-09-14,Google Reviews
+180,"Visita obligada. La torta ahogada es auténtica, como las de antes.",POS,2024-03-08,Encuesta Interna
+181,"Nunca más regreso, la experiencia fue terrible.",NEG,2024-07-18,Facebook
+182,Hay que mencionar que tienen estacionamiento compartido con el centro comercial.,NEU,2024-04-27,Encuesta Interna
+183,El personal es muy profesional y cortés. Definitivamente lo recomiendo.,POS,2024-10-28,Google Reviews
+184,"Buenísimo el agua de jamaica, muy fresca y natural. El lugar merece 5 estrellas.",POS,2024-11-01,Facebook
+185,"Mal servicio. El personal no conoce el menú, tuvo que ir a preguntar varias veces.",NEG,2024-06-11,Facebook
+186,"Tardaron más de 45 minutos en traer la comida, inaceptable. Esperaba mucho más.",NEG,2024-10-30,Encuesta Interna
+187,Sin duda el mejor restaurante mexicano de la zona.,POS,2024-04-05,Google Reviews
+188,Hay que mencionar que los postres se elaboran en el mismo restaurante.,NEU,2024-09-19,Encuesta Interna
+189,La política es de no permitir alimentos externos. Es un dato a considerar.,NEU,2024-02-05,Facebook
+190,Excelente experiencia. Pedimos varios platillos y todos llegaron calientes y bien presentados.,POS,2024-06-09,Facebook
+191,Hay que mencionar que el restaurante tiene convenio con empresas de la zona.,NEU,2024-01-15,Google Reviews
+192,"Mal servicio. La carne estaba dura y sin sabor, muy decepcionante.",NEG,2024-08-25,Google Reviews
+193,El menú tiene variedad de opciones tradicionales mexicanas. Sin más comentarios.,NEU,2024-07-24,Facebook
+194,Muy decepcionante. Pedimos postre y después de 30 minutos lo cancelamos.,NEG,2024-08-05,Encuesta Interna
+195,"El local huele a humedad, necesita mantenimiento. Esperaba mucho más.",NEG,2024-10-30,Facebook
+196,"La torta ahogada es auténtica, como las de antes.",POS,2024-10-23,Encuesta Interna
+197,"La música de fondo era folclórica, acorde con la temática. Es un dato a considerar.",NEU,2024-12-11,Encuesta Interna
+198,El personal es muy profesional y cortés.,POS,2024-06-09,Google Reviews
+199,Hay que mencionar que los ingredientes son de temporada según el chef.,NEU,2024-10-26,Facebook
+200,El menú no ha cambiado mucho en los últimos años. Es un dato a considerar.,NEU,2024-05-27,Facebook
+201,"El ambiente era muy ruidoso, no podíamos conversar.",NEG,2024-04-09,Facebook
+202,Excelente experiencia. La atención fue excepcional desde que llegamos.,POS,2024-03-24,Facebook
+203,Los precios son accesibles y las porciones son generosas.,POS,2024-02-25,Encuesta Interna
+204,El lugar está muy limpio y bien decorado. Definitivamente lo recomiendo.,POS,2024-08-12,Encuesta Interna
+205,Tienen área de juegos para niños pequeños. Sin más comentarios.,NEU,2024-02-07,Google Reviews
+206,Mal servicio. Nos ignoraron por varios minutos antes de tomarnos la orden.,NEG,2024-08-07,Encuesta Interna
+207,La recepcionista confirma reservaciones por WhatsApp. Sin más comentarios.,NEU,2024-03-30,Google Reviews
+208,Excelente experiencia. Las quesadillas de flor de calabaza son una delicia.,POS,2024-07-24,Facebook
+209,Pedimos tres veces el mismo plato y nunca llegó.,NEG,2024-04-08,Facebook
+210,Me sorprendió gratamente la calidad de la comida.,POS,2024-11-07,Encuesta Interna
+211,El chef lleva 10 años preparando cocina tradicional jalisciense. Sin más comentarios.,NEU,2024-11-25,Google Reviews
+212,La cocina está abierta y se puede ver la preparación.,NEU,2024-03-30,Facebook
+213,Solo menciono que el menú está disponible en versión digital con qr.,NEU,2024-01-02,Facebook
+214,Los meseros usan uniforme con los colores del restaurante. Sin más comentarios.,NEU,2024-01-08,Encuesta Interna
+215,Hay que mencionar que tienen área de juegos para niños pequeños.,NEU,2024-04-06,Encuesta Interna
+216,Hay que mencionar que el restaurante abre de lunes a domingo hasta las 10 pm.,NEU,2024-10-09,Google Reviews
+217,Visita obligada. Las quesadillas de flor de calabaza son una delicia.,POS,2024-12-04,Encuesta Interna
+218,"La torta ahogada es auténtica, como las de antes. Definitivamente lo recomiendo.",POS,2024-09-15,Encuesta Interna
+219,El mesero fue muy grosero con nosotros desde el inicio. No regresaré.,NEG,2024-07-27,Facebook
+220,"Me encantó la sopa de lima, muy sabrosa. Definitivamente lo recomiendo.",POS,2024-12-01,Facebook
+221,"Regresaré pronto, todo estuvo delicioso y a buen precio. El lugar merece 5 estrellas.",POS,2024-04-03,Facebook
+222,"El ambiente es muy agradable, ideal para una cena familiar.",POS,2024-10-10,Google Reviews
+223,"El personal no conoce el menú, tuvo que ir a preguntar varias veces. No regresaré.",NEG,2024-03-03,Facebook
+224,Solo menciono que el menú tiene variedad de opciones tradicionales mexicanas.,NEU,2024-07-05,Encuesta Interna
+225,Excelente experiencia. Me sorprendió gratamente la calidad de la comida.,POS,2024-11-09,Encuesta Interna
+226,Los tacos de barbacoa son de los mejores de la ciudad. Definitivamente lo recomiendo.,POS,2024-11-11,Encuesta Interna
+227,"Excelente experiencia. La carne asada estaba en su punto, muy jugosa.",POS,2024-09-15,Facebook
+228,"Solo menciono que el estacionamiento es limitado, mejor llegar en transporte.",NEU,2024-07-06,Encuesta Interna
+229,El restaurante tiene convenio con empresas de la zona.,NEU,2024-08-15,Google Reviews
+230,Mal servicio. Nos cobraron platillos que no consumimos.,NEG,2024-09-25,Encuesta Interna
+231,El mole negro tiene un sabor auténtico y profundo.,POS,2024-07-13,Facebook
+232,"Regresaré pronto, todo estuvo delicioso y a buen precio. El lugar merece 5 estrellas.",POS,2024-03-06,Google Reviews
+233,Pedimos varios platillos y todos llegaron calientes y bien presentados.,POS,2024-01-16,Google Reviews
+234,Excelente experiencia. Pedimos varios platillos y todos llegaron calientes y bien presentados.,POS,2024-01-23,Google Reviews
+235,"Excelente experiencia. Me encantó la sopa de lima, muy sabrosa.",POS,2024-03-20,Google Reviews
+236,El local lleva más de 15 años en la misma ubicación. Es un dato a considerar.,NEU,2024-09-12,Encuesta Interna
+237,La cocina está abierta y se puede ver la preparación.,NEU,2024-12-10,Facebook
+238,Hermoso lugar con una vista preciosa al jardín.,POS,2024-05-05,Facebook
+239,"Excelente experiencia. Excelente atención del mesero, muy rápido y amable.",POS,2024-02-10,Google Reviews
+240,Lugar perfecto para reuniones de trabajo o cenas románticas.,POS,2024-12-11,Google Reviews
+241,Muy decepcionante. El aire acondicionado no funcionaba y hacía mucho calor.,NEG,2024-12-16,Encuesta Interna
+242,"Muy decepcionante. La carne sabía a recalentado, no estaba fresca.",NEG,2024-04-30,Facebook
+243,"Encontré un cabello en mi plato, muy desagradable. No regresaré.",NEG,2024-09-24,Encuesta Interna
+244,El lugar está muy limpio y bien decorado. El lugar merece 5 estrellas.,POS,2024-06-16,Facebook
+245,"Servicio rápido y amable, sin esperas innecesarias. Definitivamente lo recomiendo.",POS,2024-04-24,Google Reviews
+246,Los meseros usan uniforme con los colores del restaurante. Sin más comentarios.,NEU,2024-05-22,Google Reviews
+247,La política es de no permitir alimentos externos.,NEU,2024-06-07,Facebook
+248,Hay que mencionar que el restaurante participa en el programa de jalisco gastronómico.,NEU,2024-12-11,Encuesta Interna
+249,El lugar está muy limpio y bien decorado. El lugar merece 5 estrellas.,POS,2024-06-10,Google Reviews
+250,"Excelente experiencia. Buenísimo el agua de jamaica, muy fresca y natural.",POS,2024-04-22,Google Reviews
+251,Excelente experiencia. El mole negro tiene un sabor auténtico y profundo.,POS,2024-11-23,Encuesta Interna
+252,"La música de fondo era folclórica, acorde con la temática. Sin más comentarios.",NEU,2024-06-27,Facebook
+253,Solo menciono que el restaurante tiene convenio con empresas de la zona.,NEU,2024-08-02,Encuesta Interna
+254,"Servicio rápido y amable, sin esperas innecesarias. El lugar merece 5 estrellas.",POS,2024-06-28,Facebook
+255,Los precios son accesibles y las porciones son generosas. Definitivamente lo recomiendo.,POS,2024-04-24,Google Reviews
+256,"La comida estuvo excelente, el caldo tlalpeño estaba perfecto.",POS,2024-12-28,Encuesta Interna
+257,"El local huele a humedad, necesita mantenimiento. No regresaré.",NEG,2024-08-31,Facebook
+258,Excelente experiencia. El lugar está muy limpio y bien decorado.,POS,2024-04-17,Facebook
+259,El restaurante participa en el programa de Jalisco Gastronómico.,NEU,2024-03-08,Google Reviews
+260,El mole negro tiene un sabor auténtico y profundo.,POS,2024-12-10,Encuesta Interna
+261,Hay que mencionar que el restaurante tiene buena iluminación y ventilación.,NEU,2024-08-21,Facebook
+262,Excelente experiencia. Lugar perfecto para reuniones de trabajo o cenas románticas.,POS,2024-02-17,Google Reviews
+263,Sin duda el mejor restaurante mexicano de la zona.,POS,2024-12-07,Encuesta Interna
+264,Aceptan pagos con tarjeta y en efectivo. Es un dato a considerar.,NEU,2024-09-10,Google Reviews
+265,Las enchiladas verdes son las mejores que he probado en Zapopan. Definitivamente lo recomiendo.,POS,2024-10-17,Encuesta Interna
+266,"Muy decepcionante. Salimos con malestar estomacal, probablemente por la comida.",NEG,2024-10-21,Encuesta Interna
+267,"Me encantó la sopa de lima, muy sabrosa. Definitivamente lo recomiendo.",POS,2024-11-22,Facebook
+268,"Visita obligada. El birote salado estaba recién horneado, increíble.",POS,2024-05-05,Google Reviews
+269,"Visita obligada. El chile en nogada estaba increíble, muy bien preparado.",POS,2024-02-07,Facebook
+270,El menú no ha cambiado mucho en los últimos años. Sin más comentarios.,NEU,2024-08-12,Google Reviews
+271,"El personal no conoce el menú, tuvo que ir a preguntar varias veces. Esperaba mucho más.",NEG,2024-11-06,Encuesta Interna
+272,"La torta ahogada es auténtica, como las de antes. El lugar merece 5 estrellas.",POS,2024-12-06,Facebook
+273,Excelente experiencia. Me sorprendió gratamente la calidad de la comida.,POS,2024-07-23,Encuesta Interna
+274,El restaurante participa en el programa de Jalisco Gastronómico. Es un dato a considerar.,NEU,2024-03-07,Encuesta Interna
+275,"El personal no conoce el menú, tuvo que ir a preguntar varias veces. Esperaba mucho más.",NEG,2024-07-31,Google Reviews
+276,El menú está disponible en versión digital con QR. Es un dato a considerar.,NEU,2024-03-28,Google Reviews
+277,El tiempo de espera es exagerado para un lugar casi vacío. No regresaré.,NEG,2024-08-05,Google Reviews
+278,"La música de fondo era folclórica, acorde con la temática. Es un dato a considerar.",NEU,2024-04-25,Encuesta Interna
+279,Los ingredientes son de temporada según el chef. Es un dato a considerar.,NEU,2024-09-11,Encuesta Interna
+280,Los precios están en el promedio de la zona. Sin más comentarios.,NEU,2024-02-16,Encuesta Interna
+281,Los precios están en el promedio de la zona. Sin más comentarios.,NEU,2024-09-20,Google Reviews
+282,"El ambiente era muy ruidoso, no podíamos conversar.",NEG,2024-05-07,Google Reviews
+283,Las porciones son muy pequeñas para el precio que cobran. Esperaba mucho más.,NEG,2024-05-04,Facebook
+284,Las instalaciones son viejas y descuidadas. Esperaba mucho más.,NEG,2024-08-17,Google Reviews
+285,Hay que mencionar que los ingredientes son de temporada según el chef.,NEU,2024-04-26,Encuesta Interna
+286,"Excelente experiencia. El ambiente es muy agradable, ideal para una cena familiar.",POS,2024-08-10,Google Reviews
+287,Visita obligada. Me sorprendió gratamente la calidad de la comida.,POS,2024-04-22,Encuesta Interna
+288,El local tiene capacidad para unas 50 personas aproximadamente. Sin más comentarios.,NEU,2024-10-19,Facebook
+289,"El estacionamiento es limitado, mejor llegar en transporte. Sin más comentarios.",NEU,2024-09-26,Google Reviews
+290,"Solo menciono que tienen menú del día con opciones de sopa, guisado y postre.",NEU,2024-05-08,Encuesta Interna
+291,El local tiene capacidad para unas 50 personas aproximadamente.,NEU,2024-11-21,Facebook
+292,Solo menciono que el local lleva más de 15 años en la misma ubicación.,NEU,2024-05-02,Encuesta Interna
+293,"Mal servicio. Muy mala experiencia, no lo recomiendo para nada.",NEG,2024-08-06,Encuesta Interna
+294,La cocina está abierta y se puede ver la preparación.,NEU,2024-11-06,Encuesta Interna
+295,"Muy decepcionante. La sopa llegó completamente fría, tuvieron que recalentarla.",NEG,2024-07-13,Facebook
+296,Hermoso lugar con una vista preciosa al jardín.,POS,2024-03-25,Facebook
+297,"La carne sabía a recalentado, no estaba fresca. No regresaré.",NEG,2024-12-27,Google Reviews
+298,Hay que mencionar que el menú está disponible en versión digital con qr.,NEU,2024-05-04,Google Reviews
+299,Mal servicio. El precio es muy elevado para la calidad que ofrecen.,NEG,2024-10-02,Facebook
+300,El precio es muy elevado para la calidad que ofrecen.,NEG,2024-08-28,Google Reviews
+301,Ofrecen servicio a domicilio a través de aplicaciones. Es un dato a considerar.,NEU,2024-02-26,Encuesta Interna
+302,Solo menciono que la carta incluye opciones vegetarianas aunque son pocas.,NEU,2024-03-16,Google Reviews
+303,Hay que mencionar que tienen área de juegos para niños pequeños.,NEU,2024-11-28,Facebook
+304,Visita obligada. Las enchiladas verdes son las mejores que he probado en Zapopan.,POS,2024-05-30,Encuesta Interna
+305,"Excelente experiencia. El lugar tiene un encanto especial, muy acogedor.",POS,2024-02-25,Google Reviews
+306,El mole negro tiene un sabor auténtico y profundo.,POS,2024-03-19,Encuesta Interna
+307,No respetaron la reservación que hicimos con anticipación. No regresaré.,NEG,2024-02-22,Encuesta Interna
+308,La política es de no permitir alimentos externos. Sin más comentarios.,NEU,2024-03-03,Google Reviews
+309,"La torta ahogada es auténtica, como las de antes. Definitivamente lo recomiendo.",POS,2024-10-01,Facebook
+310,"La música de fondo era folclórica, acorde con la temática. Sin más comentarios.",NEU,2024-05-15,Facebook
+311,Visita obligada. Hermoso lugar con una vista preciosa al jardín.,POS,2024-02-14,Encuesta Interna
+312,"El estacionamiento es limitado, mejor llegar en transporte. Es un dato a considerar.",NEU,2024-08-24,Encuesta Interna
+313,Solo menciono que el menú está disponible en versión digital con qr.,NEU,2024-04-15,Google Reviews
+314,"Mal servicio. Encontré un cabello en mi plato, muy desagradable.",NEG,2024-04-09,Encuesta Interna
+315,"Visita obligada. Superó nuestras expectativas, muy recomendable.",POS,2024-12-17,Encuesta Interna
+316,Visita obligada. Las flautas de pollo crujientes y muy sabrosas.,POS,2024-01-21,Encuesta Interna
+317,Visita obligada. La atención fue excepcional desde que llegamos.,POS,2024-03-04,Facebook
+318,Visita obligada. Lugar perfecto para reuniones de trabajo o cenas románticas.,POS,2024-02-29,Facebook
+319,"Solo menciono que el estacionamiento es limitado, mejor llegar en transporte.",NEU,2024-10-29,Facebook
+320,Excelente experiencia. Lugar perfecto para reuniones de trabajo o cenas románticas.,POS,2024-01-23,Encuesta Interna
+321,El menú tiene variedad de opciones tradicionales mexicanas. Es un dato a considerar.,NEU,2024-09-22,Facebook
+322,"El estacionamiento es limitado, mejor llegar en transporte. Sin más comentarios.",NEU,2024-12-01,Google Reviews
+323,Hay que mencionar que aceptan pagos con tarjeta y en efectivo.,NEU,2024-11-16,Encuesta Interna
+324,Tienen área de juegos para niños pequeños. Sin más comentarios.,NEU,2024-05-31,Encuesta Interna
+325,Los tacos llegaron fríos y el tortilla estaba reseca.,NEG,2024-09-10,Facebook
+326,Las enchiladas verdes son las mejores que he probado en Zapopan. Definitivamente lo recomiendo.,POS,2024-10-06,Google Reviews
+327,Tienen sección de bar con bebidas típicas mexicanas.,NEU,2024-08-24,Google Reviews
+328,Los tacos de barbacoa son de los mejores de la ciudad.,POS,2024-06-02,Encuesta Interna
+329,La recepcionista confirma reservaciones por WhatsApp.,NEU,2024-08-31,Facebook
+330,"Encontré un cabello en mi plato, muy desagradable. No regresaré.",NEG,2024-08-24,Google Reviews
+331,"La música de fondo era folclórica, acorde con la temática. Sin más comentarios.",NEU,2024-01-08,Facebook
+332,"Nunca más regreso, la experiencia fue terrible.",NEG,2024-06-29,Facebook
+333,"Visita obligada. Superó nuestras expectativas, muy recomendable.",POS,2024-12-19,Google Reviews
+334,Visita obligada. Pedimos varios platillos y todos llegaron calientes y bien presentados.,POS,2024-01-05,Google Reviews
+335,Mal servicio. El mesero fue muy grosero con nosotros desde el inicio.,NEG,2024-11-18,Encuesta Interna
+336,"El chile en nogada estaba increíble, muy bien preparado. El lugar merece 5 estrellas.",POS,2024-04-19,Facebook
+337,Excelente experiencia. Me sorprendió gratamente la calidad de la comida.,POS,2024-04-14,Encuesta Interna
+338,"La sopa llegó completamente fría, tuvieron que recalentarla. No regresaré.",NEG,2024-05-27,Encuesta Interna
+339,Solo menciono que el chef lleva 10 años preparando cocina tradicional jalisciense.,NEU,2024-12-27,Facebook
+340,"Visita obligada. El chile en nogada estaba increíble, muy bien preparado.",POS,2024-03-25,Facebook
+341,El aire acondicionado no funcionaba y hacía mucho calor. Esperaba mucho más.,NEG,2024-08-02,Encuesta Interna
+342,"La carne sabía a recalentado, no estaba fresca. Esperaba mucho más.",NEG,2024-09-10,Facebook
+343,Solo menciono que el local tiene capacidad para unas 50 personas aproximadamente.,NEU,2024-07-15,Google Reviews
+344,El lugar está muy limpio y bien decorado. El lugar merece 5 estrellas.,POS,2024-10-07,Google Reviews
+345,"Me encantó la sopa de lima, muy sabrosa.",POS,2024-04-27,Google Reviews
+346,Los tacos llegaron fríos y el tortilla estaba reseca. No regresaré.,NEG,2024-02-14,Facebook
+347,Los precios están en el promedio de la zona. Sin más comentarios.,NEU,2024-11-11,Facebook
+348,Mal servicio. Nos cobraron platillos que no consumimos.,NEG,2024-11-04,Google Reviews
+349,Los tacos llegaron fríos y el tortilla estaba reseca.,NEG,2024-08-03,Facebook
+350,"Muy buen servicio, nos atendieron con mucha amabilidad. Definitivamente lo recomiendo.",POS,2024-02-04,Google Reviews
+351,Hay que mencionar que el menú está disponible en versión digital con qr.,NEU,2024-04-22,Encuesta Interna
+352,El precio es muy elevado para la calidad que ofrecen. No regresaré.,NEG,2024-11-22,Facebook
+353,Hay que mencionar que el restaurante participa en el programa de jalisco gastronómico.,NEU,2024-02-28,Facebook
+354,Los postres se elaboran en el mismo restaurante.,NEU,2024-04-14,Facebook
+355,Los postres se elaboran en el mismo restaurante. Sin más comentarios.,NEU,2024-06-23,Encuesta Interna
+356,"Buenísimo el agua de jamaica, muy fresca y natural. El lugar merece 5 estrellas.",POS,2024-03-14,Facebook
+357,Solo menciono que los ingredientes son de temporada según el chef.,NEU,2024-08-24,Facebook
+358,"Visita obligada. Superó nuestras expectativas, muy recomendable.",POS,2024-10-22,Facebook
+359,"No había agua en los baños, muy mala higiene. Esperaba mucho más.",NEG,2024-06-16,Facebook
+360,Excelente experiencia. Hermoso lugar con una vista preciosa al jardín.,POS,2024-05-02,Google Reviews
+361,Muy decepcionante. El servicio es lento y desorganizado.,NEG,2024-06-23,Facebook
+362,"Superó nuestras expectativas, muy recomendable.",POS,2024-11-02,Facebook
+363,"Todo estuvo perfecto, volveremos pronto. Definitivamente lo recomiendo.",POS,2024-09-16,Google Reviews
+364,"Todo estuvo perfecto, volveremos pronto. Definitivamente lo recomiendo.",POS,2024-10-03,Encuesta Interna
+365,Sin duda el mejor restaurante mexicano de la zona. El lugar merece 5 estrellas.,POS,2024-02-16,Google Reviews
+366,"El lugar estaba sucio, las mesas no estaban bien limpias.",NEG,2024-10-20,Facebook
+367,Hay que mencionar que los meseros usan uniforme con los colores del restaurante.,NEU,2024-03-25,Facebook
+368,"Superó nuestras expectativas, muy recomendable. Definitivamente lo recomiendo.",POS,2024-03-26,Facebook
+369,El aire acondicionado no funcionaba y hacía mucho calor. Esperaba mucho más.,NEG,2024-05-22,Facebook
+370,Los precios son accesibles y las porciones son generosas.,POS,2024-05-22,Facebook
+371,El lugar está ubicado en una zona accesible del centro de Zapopan. Sin más comentarios.,NEU,2024-05-20,Google Reviews
+372,El menú tiene variedad de opciones tradicionales mexicanas. Sin más comentarios.,NEU,2024-05-21,Google Reviews
+373,Mal servicio. La salsa picante estaba aguada y sin sabor.,NEG,2024-12-08,Facebook
+374,Pedimos tres veces el mismo plato y nunca llegó. No regresaré.,NEG,2024-12-01,Encuesta Interna
+375,"El chile en nogada estaba increíble, muy bien preparado.",POS,2024-02-27,Facebook
+376,Hay que mencionar que el restaurante participa en el programa de jalisco gastronómico.,NEU,2024-02-20,Encuesta Interna
+377,Las porciones son muy pequeñas para el precio que cobran. Esperaba mucho más.,NEG,2024-12-28,Google Reviews
+378,"No había agua en los baños, muy mala higiene.",NEG,2024-10-30,Encuesta Interna
+379,Los ingredientes son de temporada según el chef.,NEU,2024-09-08,Encuesta Interna
+380,"La cuenta no correspondía con lo que pedimos, nos cobraron de más. No regresaré.",NEG,2024-04-28,Facebook
+381,"El lugar estaba sucio, las mesas no estaban bien limpias. Esperaba mucho más.",NEG,2024-07-04,Encuesta Interna
+382,"Excelente experiencia. Servicio rápido y amable, sin esperas innecesarias.",POS,2024-10-25,Encuesta Interna
+383,"Muy decepcionante. El personal no conoce el menú, tuvo que ir a preguntar varias veces.",NEG,2024-06-29,Encuesta Interna
+384,Tienen mesas en el interior y en terraza exterior.,NEU,2024-12-03,Encuesta Interna
+385,Los precios son accesibles y las porciones son generosas.,POS,2024-02-17,Encuesta Interna
+386,La recepcionista confirma reservaciones por WhatsApp. Es un dato a considerar.,NEU,2024-07-31,Encuesta Interna
+387,"Hay que mencionar que la música de fondo era folclórica, acorde con la temática.",NEU,2024-05-09,Facebook
+388,El lugar está ubicado en una zona accesible del centro de Zapopan. Sin más comentarios.,NEU,2024-05-27,Encuesta Interna
+389,Solo menciono que el tiempo de espera es de 20 a 30 minutos en horas pico.,NEU,2024-06-02,Encuesta Interna
+390,La atención fue excepcional desde que llegamos.,POS,2024-05-06,Google Reviews
+391,Hay que mencionar que tienen sección de bar con bebidas típicas mexicanas.,NEU,2024-02-25,Encuesta Interna
+392,"Visita obligada. Excelente atención del mesero, muy rápido y amable.",POS,2024-02-10,Google Reviews
+393,"La carne estaba dura y sin sabor, muy decepcionante. Esperaba mucho más.",NEG,2024-04-18,Facebook
+394,La recepcionista confirma reservaciones por WhatsApp. Sin más comentarios.,NEU,2024-12-27,Facebook
+395,"Mal servicio. El local huele a humedad, necesita mantenimiento.",NEG,2024-08-28,Facebook
+396,"Muy decepcionante. El local huele a humedad, necesita mantenimiento.",NEG,2024-06-05,Facebook
+397,"Me encantó la sopa de lima, muy sabrosa. El lugar merece 5 estrellas.",POS,2024-08-14,Facebook
+398,Solo menciono que la carta incluye opciones vegetarianas aunque son pocas.,NEU,2024-05-08,Google Reviews
+399,Solo menciono que los postres se elaboran en el mismo restaurante.,NEU,2024-07-12,Facebook
+400,El aire acondicionado no funcionaba y hacía mucho calor.,NEG,2024-05-06,Google Reviews
